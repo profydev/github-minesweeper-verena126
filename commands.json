@@ -33,7 +33,12 @@
     "clear G2",
     "flag G3",
     "clear G4",
-    "clear G5"
+    "clear G5",
+    "clear H3",
+    "clear H4",
+    "flag G6",
+    "clear G7",
+    "flag G8"
 
   ]
 }
