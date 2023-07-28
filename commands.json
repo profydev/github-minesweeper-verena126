@@ -27,9 +27,6 @@
     "clear E1",
     "clear F2",
     "clear F3",
-<<<<<<< HEAD
-    "clear F4"
-=======
     "clear F4",
     "clear F1",
     "clear G1",
@@ -44,6 +41,6 @@
     "flag G8",
     "flag H2"
 
->>>>>>> bba3676be2f8078088441bce4c5a810e725b2615
+
   ]
 }
